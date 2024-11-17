@@ -1,3 +1,6 @@
+# MarketPlace
+- About this project, i using Klaytn Network to create a Market Place where people can buy or sell something. This is a DApp. 
+
 # Dappazon
 
 ## Technology Stack & Tools
